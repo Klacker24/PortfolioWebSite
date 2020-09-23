@@ -59,14 +59,11 @@ div.ul li:hover{
     text-decoration: none;
 }
 
-div.portfolio{
-    left: 20px;
-    float: left;
+div.home{
+    float: center;
 }
 
-div.contact{
-    float: right;
-}
+
 
 
 div.socials{
